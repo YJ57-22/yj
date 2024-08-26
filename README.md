@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yearly Spent Prediction & Streamlit Web App 
 Using a Machine Learning Linear Regression Model to Predict the Customer's Yearly Spent From a Features like(App Usage Time, Website Usage Time, Membership Length, ...)
 ### Web App Link: <a href = "https://yearly-spent-prediction-h9njsfqgjj8owews8cclnp.streamlit.app/" target="_blank" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
@@ -42,3 +43,6 @@ Also, you can predict from the CSV file for more than one customer, but the file
 (Avg_Session_Length, App_Usage, Website_Usage, Membership_Length)
 ![image](https://github.com/modyehab810/Yearly-Spent-Prediction/assets/114261123/78ae4d93-a825-471a-b0a5-7c920be51f0b)
 
+=======
+# yj
+>>>>>>> fe7897aa3e6c7d24db598f6b0affb32f27335603
